@@ -1,0 +1,20 @@
+{
+  "name": "05-app-clima",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "inquirer": "^9.2.7"
+  }
+}
